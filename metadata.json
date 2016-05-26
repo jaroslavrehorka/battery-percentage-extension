@@ -1,8 +1,8 @@
 {
-	"uuid": "battery-percentage@nohales.org",
+	"uuid": "battery-percentage@jaroslavrehorka",
 	"shell-version": ["3.12", "3.14", "3.16", "3.18"],
-	"name": "Battery Percentage",
-	"description": "Show battery remaining power percentage at the top panel",
-	"url": "https://github.com/eagleoneraptor/battery-percentage-extension",
-	"original-authors": ["damiannohales@gmail.com"]
+	"name": "Battery Percentage with remaining time and settings",
+	"description": "Show battery remaining power percentage and optional remaining time at the top panel",
+	"url": "https://github.com/jaroslavrehorka/battery-percentage-extension",
+	"original-authors": ["jaroslav.rehorka@gmail.com"]
 }
