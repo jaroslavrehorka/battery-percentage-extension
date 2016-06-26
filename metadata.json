@@ -1,6 +1,6 @@
 {
 	"uuid": "battery-percentage@jaroslavrehorka",
-	"shell-version": ["3.12", "3.14", "3.16", "3.18"],
+	"shell-version": ["3.12", "3.14", "3.16", "3.18", "3.20"],
 	"name": "Battery Percentage with remaining time and settings",
 	"description": "Show battery remaining power percentage and optional remaining time at the top panel",
 	"url": "https://github.com/jaroslavrehorka/battery-percentage-extension",
